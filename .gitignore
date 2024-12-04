@@ -2,6 +2,10 @@ myenv
 Job_Postings_Data_2023_24/
 Old_Extracted_Data/
 _LinkedIn Data Exploration/.ipynb_checkpoints/
+_LinkedIn Data Exploration/REQ DATA
+_LinkedIn Data Exploration/cluster_plot.html
 LinkedIn Scraper/
 *.csv
 Part Data/
+Time Series/.ipynb_checkpoints
+Time Series/job_postings_map.html
