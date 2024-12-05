@@ -6,7 +6,11 @@ _LinkedIn Data Exploration/REQ DATA
 _LinkedIn Data Exploration/cluster_plot.html
 LinkedIn Scraper/
 *.csv
+<<<<<<< HEAD
 Part Data/
 Time Series/.ipynb_checkpoints
 Time Series/job_postings_map.html
 Similar Jobs/
+=======
+Similar Jobs/.ipynb_checkpoints
+>>>>>>> 5ad2e084b85b07ccf555d6f17d6e3913c6da49af
